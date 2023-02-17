@@ -1,2 +1,2 @@
 # story2
-a story
+This is a story.
